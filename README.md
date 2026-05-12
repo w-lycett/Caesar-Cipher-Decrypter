@@ -35,11 +35,17 @@ I wanted to challenge myself with producing a small but useful application using
    ```
    source venv/bin/activate
    ```
+
 4. Run the application from the controller:
    ```
    python -m decryptionController
    ```
    The GUI for the program should then appear.
+
+5. When finished, exit the GUI window and deactive your virtual environment (if used):
+   ```
+   deactivate
+   ```
 
 ## Contributing
 Pull requests welcome.
